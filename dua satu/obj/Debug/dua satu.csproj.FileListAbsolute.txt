@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\dua satu\dua satu\bin\Debug\dua satu.exe.config
+C:\Users\LENOVO\source\repos\dua satu\dua satu\bin\Debug\dua satu.exe
+C:\Users\LENOVO\source\repos\dua satu\dua satu\bin\Debug\dua satu.pdb
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua satu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua_satu.Form1.resources
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua_satu.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua satu.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua satu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua satu.exe
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua satu.pdb

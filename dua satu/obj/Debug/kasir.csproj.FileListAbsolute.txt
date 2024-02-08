@@ -1,0 +1,26 @@
+C:\Users\LENOVO\source\repos\dua satu\dua satu\bin\Debug\dua satu.exe.config
+C:\Users\LENOVO\source\repos\dua satu\dua satu\bin\Debug\dua satu.exe
+C:\Users\LENOVO\source\repos\dua satu\dua satu\bin\Debug\dua satu.pdb
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\kasir.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\kasir.kasir.resources
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua_satu.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\kasir.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\kasir.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua satu.exe
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\dua satu.pdb
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\kasir.Login.resources
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\kasir.TambahUser.resources
+C:\Users\LENOVO\source\repos\dua satu\dua satu\obj\Debug\kasir.Print.resources
+C:\Users\LENOVO\source\repos\kasir\dua satu\bin\Debug\dua satu.exe.config
+C:\Users\LENOVO\source\repos\kasir\dua satu\bin\Debug\dua satu.exe
+C:\Users\LENOVO\source\repos\kasir\dua satu\bin\Debug\dua satu.pdb
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\kasir.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\kasir.kasir.resources
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\kasir.Login.resources
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\kasir.Print.resources
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\dua_satu.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\kasir.TambahUser.resources
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\kasir.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\kasir.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\dua satu.exe
+C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\dua satu.pdb
