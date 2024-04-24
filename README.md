@@ -1,4 +1,4 @@
-#Cafe Cash Register (CSV)
+# Cafe Cash Register (CSV)
 
 Aplikasi ini dibuat untuk Kasir Cafe (default) untuk mempermudah perhitungan. Aplikasi ini hanya bisa di akses karyawan perusahaan tersebut
 
