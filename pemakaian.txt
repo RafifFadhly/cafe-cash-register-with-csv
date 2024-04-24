@@ -1,5 +1,3 @@
 Admin : Rafif Fadhly, pw = Ra4321
 Koki : Rafif Fadhly, pw = Ra4567
 karyawan : Rafif, pw = Rfas
-
-apk ini tidak 100% di buat dari awal, namun mengcopy dan memodifikasi dari modul pak fendy
