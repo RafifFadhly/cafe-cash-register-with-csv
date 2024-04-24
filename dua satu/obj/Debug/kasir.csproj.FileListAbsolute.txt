@@ -24,3 +24,20 @@ C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\kasir.csproj.GenerateResou
 C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\kasir.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\dua satu.exe
 C:\Users\LENOVO\source\repos\kasir\dua satu\obj\Debug\dua satu.pdb
+D:\github\Kasir-csv\dua satu\bin\Debug\dua satu.exe.config
+D:\github\Kasir-csv\dua satu\bin\Debug\dua satu.exe.manifest
+D:\github\Kasir-csv\dua satu\bin\Debug\dua satu.application
+D:\github\Kasir-csv\dua satu\bin\Debug\dua satu.exe
+D:\github\Kasir-csv\dua satu\bin\Debug\dua satu.pdb
+D:\github\Kasir-csv\dua satu\obj\Debug\kasir.csproj.AssemblyReference.cache
+D:\github\Kasir-csv\dua satu\obj\Debug\kasir.kasir.resources
+D:\github\Kasir-csv\dua satu\obj\Debug\kasir.Login.resources
+D:\github\Kasir-csv\dua satu\obj\Debug\kasir.Print.resources
+D:\github\Kasir-csv\dua satu\obj\Debug\dua_satu.Properties.Resources.resources
+D:\github\Kasir-csv\dua satu\obj\Debug\kasir.TambahUser.resources
+D:\github\Kasir-csv\dua satu\obj\Debug\kasir.csproj.GenerateResource.cache
+D:\github\Kasir-csv\dua satu\obj\Debug\kasir.csproj.CoreCompileInputs.cache
+D:\github\Kasir-csv\dua satu\obj\Debug\dua satu.exe.manifest
+D:\github\Kasir-csv\dua satu\obj\Debug\dua satu.application
+D:\github\Kasir-csv\dua satu\obj\Debug\dua satu.exe
+D:\github\Kasir-csv\dua satu\obj\Debug\dua satu.pdb
