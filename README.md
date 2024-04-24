@@ -1,6 +1,6 @@
 # Cafe Cash Register (CSV)
 
-Aplikasi ini dibuat untuk Kasir Cafe (default) untuk mempermudah perhitungan. Aplikasi ini hanya bisa di akses karyawan perusahaan tersebut. Aplikasi ini dibuat menggunakan bahasa c#
+Aplikasi ini dibuat untuk Kasir Cafe (default) untuk mempermudah perhitungan. Aplikasi ini hanya bisa di akses karyawan perusahaan tersebut. Aplikasi ini dibuat menggunakan bahasa C#.
 
 Fitur :
 - Database lokal (CSV)
